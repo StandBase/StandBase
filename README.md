@@ -288,7 +288,7 @@ stage.start();
 </div>
 <div class="comment-base">
 <h1 class="comment-title">Инфо #3</h1>
-<p>Текущая версия игры 1.4. </p>
+<p>Текущая версия игры 1.. </p>
 </div>
 </div>
 </div>

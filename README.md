@@ -209,7 +209,7 @@ StandBase
 <p>Сайт по приватке StandBase...</p>
 </div>
 <div class="box-side">
-<div class="logo"> <color=red>
+<div class="logo">
 
 </div>
 </div>

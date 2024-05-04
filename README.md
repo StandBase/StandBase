@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru" >
 <head>
 <meta charset="UTF-8">
@@ -208,6 +207,7 @@ StandBase
 <div class="box-base">
 <h1>Приветик</h1>
 <p>Сайт по приватке StandBase...</p>
+<p>"Место для рекламы"</p>
 </div>
 <div class="box-side">
 <div class="none">
@@ -245,17 +245,16 @@ stage.start();
 <div class="posts"  id="posts">
 <div class="post">
 <h1>Пост #1</h1>
-<p>Объявления ❗️
-Начинаем поиск дизайнера, для Шутера Strike_Bakhmut,  нужен нормальный человек который розбиратся в сосдания разного дизайна и тому подобнее, писать в ЛС О сотрудничестве @Skitels_s1mpel</p>
+<p>почему почти всё комьюнити стандофф 2 продали почки, я тоже хочу 
+только чтобы почка была на месте</p>
 </div>
 <div class="post">
 <h1>Пост #2</h1>
-<p>привет, у нас идет набор в тестера, нужен 1 человек, переходи в группу и оставляй заявку, https://t.me/+cilaUm04WowxODVi </p>
+<p></p>
 </div>
 <div class="post">
 <h1>Пост #3</h1>
-<img src="https://t.me/StandBaseCannel/212"/>
-<p> Ладно, я бот) </p>
+<p></p>
 </div>
 </div>
 <div class="comments"  id="comments">

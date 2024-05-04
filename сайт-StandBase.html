@@ -191,7 +191,7 @@ margin: 0;
 </style>
 </head>
 <body>
-<header class="header">
+<header class="#8b00ff">
 <a class="logo">
 StandBase
 </a>

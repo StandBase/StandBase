@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ru" >
 <head>
 <meta charset="UTF-8">
@@ -207,7 +208,7 @@ StandBase
 <div class="box-base">
 <h1>Приветик</h1>
 <p>Сайт по приватке StandBase...</p>
- <a href="https://t.me/StandBaseCannel/">Скачать</a>
+<a href="https://t.me/StandBaseCannel/">Скачать</a>
 </div>
 <div class="box-side">
 <div class="none">
@@ -245,16 +246,15 @@ stage.start();
 <div class="posts"  id="posts">
 <div class="post">
 <h1>Пост #1</h1>
-<p>не могу решить проблему с SDK NDK и JDK тобы выпустить билд на андроид</p>
+<p>почему почти всё комьюнити стандофф 2 продали почки, я тоже хочу так</p>
 </div>
 <div class="post">
 <h1>Пост #2</h1>
-<p>привет, у нас идет набор в тестера, нужен 1 человек, переходи в группу и оставляй заявку, https://t.me/+cilaUm04WowxODVi </p>
+<p>не могу решить проблему с SDK NDK и JDK тобы выпустить билд на андроид</p>
 </div>
 <div class="post">
 <h1>Пост #3</h1>
-<img src="https://t.me/StandBaseCannel/212"/>
-<p> Ладно, я бот) </p>
+<p>привет, у нас идет набор в тестера, нужен 1 человек, переходи в группу и оставляй заявку, https://t.me/+cilaUm04WowxODVi </p>
 </div>
 </div>
 <div class="comments"  id="comments">

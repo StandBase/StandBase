@@ -215,20 +215,14 @@ StandBase
 </div>
 </div>
 <div class="content">
-<div class="banners">
+<div class="banners"> "none"
 <div class="banner"> "none"
-<div class="banner"><script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>
-<script type="text/javascript" src="https://www.bestchange.com/images/banners/100x100-8.js"></script>
-<a target="_blank" href="https://www.bestchange.com/?p=1306772" title="Digital currency exchangers rating &ndash; BestChange"><span id="D5QDHsnQy9sydH9bDGNT" style="display: inline-block; width: 100px; height: 100px; background-color: #89b508; margin: 0; padding: 0; border: none; overflow: hidden" onclick="return false"></span></a>
-<script type="text/javascript">
+<div class="banner"> "none"
 var stage = new swiffy.Stage(document.getElementById('D5QDHsnQy9sydH9bDGNT'), swiffyobject, {});
 stage.setFlashVars('clickTAG=https://www.bestchange.com/?p=1306772');
 stage.start();
 </script></div>
-<div class="banner"><script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>
-<script type="text/javascript" src="https://www.bestchange.com/images/banners/100x100-7.js"></script>
-<a target="_blank" href="https://www.bestchange.com/?p=1306772" title="Digital currency exchangers rating &ndash; BestChange"><span id="8bZYhf5RiDenb5bnRAG8" style="display: inline-block; width: 100px; height: 100px; background-color: #89b508; margin: 0; padding: 0; border: none; overflow: hidden" onclick="return false"></span></a>
-<script type="text/javascript">
+<div class="banner"> "none"
 var stage = new swiffy.Stage(document.getElementById('8bZYhf5RiDenb5bnRAG8'), swiffyobject, {});
 stage.setFlashVars('clickTAG=https://www.bestchange.com/?p=1306772');
 stage.start();

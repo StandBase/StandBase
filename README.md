@@ -207,7 +207,7 @@ StandBase
 <div class="box-base">
 <h1>Приветик</h1>
 <p>Сайт по приватке StandBase...</p>
- <a href="https://t.me/StandBaseCannel/">the hyperlink text</a>
+ <a href="https://t.me/StandBaseCannel/">Скачать</a>
 </div>
 <div class="box-side">
 <div class="none">

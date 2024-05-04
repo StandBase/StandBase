@@ -192,7 +192,7 @@ margin: 0;
 </head>
 <body>
 <header class="header">
-<a class="logo">
+<a class="none">
 StandBase
 </a>
 <nav class="nav">
@@ -207,7 +207,6 @@ StandBase
 <div class="box-base">
 <h1>Приветик</h1>
 <p>Сайт по приватке StandBase...</p>
-<a href="https://t.me/StandBaseCannel/">Скачать</a>
 </div>
 <div class="box-side">
 <div class="none">

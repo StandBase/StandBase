@@ -8,7 +8,7 @@ color: #fff;
 text-decoration: none;
 }
 html{
-background: #f;
+background: #606;
 min-height: 100%;
 font-family: Helvetica;
 display: flex;
@@ -209,20 +209,33 @@ StandBase
 <p>Сайт по приватке StandBase...</p>
 </div>
 <div class="box-side">
-<div class="none">
+<div class="logo">
 
 </div>
 </div>
 </div>
 <div class="content">
-<div class="banners"> "none"
-<div class="banner"> "none"
-<div class="banner"> "none"
+<div class="banners">
+<div class="banner"><script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>
+<script type="text/javascript" src="https://www.bestchange.com/images/banners/100x100-9.js"></script>
+<a target="_blank" href="https://www.bestchange.com/?p=1306772" title="Digital currency exchangers rating &ndash; BestChange"><span id="yFKFdekEsKSs5FzrHs9e" style="display: inline-block; width: 100px; height: 100px; background-color: #89b508; margin: 0; padding: 0; border: none; overflow: hidden" onclick="return false"></span></a>
+<script type="text/javascript">
+var stage = new swiffy.Stage(document.getElementById('yFKFdekEsKSs5FzrHs9e'), swiffyobject, {});
+stage.setFlashVars('clickTAG=https://www.bestchange.com/?p=1306772');
+stage.start();
+</script></div>
+<div class="banner"><script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>
+<script type="text/javascript" src="https://www.bestchange.com/images/banners/100x100-8.js"></script>
+<a target="_blank" href="https://www.bestchange.com/?p=1306772" title="Digital currency exchangers rating &ndash; BestChange"><span id="D5QDHsnQy9sydH9bDGNT" style="display: inline-block; width: 100px; height: 100px; background-color: #89b508; margin: 0; padding: 0; border: none; overflow: hidden" onclick="return false"></span></a>
+<script type="text/javascript">
 var stage = new swiffy.Stage(document.getElementById('D5QDHsnQy9sydH9bDGNT'), swiffyobject, {});
 stage.setFlashVars('clickTAG=https://www.bestchange.com/?p=1306772');
 stage.start();
 </script></div>
-<div class="banner"> "none"
+<div class="banner"><script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>
+<script type="text/javascript" src="https://www.bestchange.com/images/banners/100x100-7.js"></script>
+<a target="_blank" href="https://www.bestchange.com/?p=1306772" title="Digital currency exchangers rating &ndash; BestChange"><span id="8bZYhf5RiDenb5bnRAG8" style="display: inline-block; width: 100px; height: 100px; background-color: #89b508; margin: 0; padding: 0; border: none; overflow: hidden" onclick="return false"></span></a>
+<script type="text/javascript">
 var stage = new swiffy.Stage(document.getElementById('8bZYhf5RiDenb5bnRAG8'), swiffyobject, {});
 stage.setFlashVars('clickTAG=https://www.bestchange.com/?p=1306772');
 stage.start();
@@ -240,7 +253,7 @@ stage.start();
 </div>
 <div class="post">
 <h1>Пост #3</h1>
-<p></p>
+<p>привет, у нас идет набор в тестера, нужен 1 человек, переходи в группу и оставляй заявку, https://t.me/+cilaUm04WowxODVi </p>
 </div>
 </div>
 <div class="comments"  id="comments">
@@ -276,7 +289,6 @@ stage.start();
 <h1 class="comment-title">Инфо #3</h1>
 <p>Текущая версия игры 1.4. </p>
 
-</div>
 </div>
 <div class="comment-base">
 <h1 class="comment-title">Инфо #4</h1>

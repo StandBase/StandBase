@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ru" >
 <head>
 <meta charset="UTF-8">
@@ -8,7 +9,7 @@ color: #fff;
 text-decoration: none;
 }
 html{
-background: #606;
+background: #f;
 min-height: 100%;
 font-family: Helvetica;
 display: flex;
@@ -209,7 +210,7 @@ StandBase
 <p>Сайт по приватке StandBase...</p>
 </div>
 <div class="box-side">
-<div class="logo">
+<div class="none">
 
 </div>
 </div>
@@ -244,16 +245,17 @@ stage.start();
 <div class="posts"  id="posts">
 <div class="post">
 <h1>Пост #1</h1>
-<p>почему почти всё комьюнити стандофф 2 продали почки, я тоже хочу 
-только чтобы почка была на месте</p>
+<p>Объявления ❗️
+Начинаем поиск дизайнера, для Шутера Strike_Bakhmut,  нужен нормальный человек который розбиратся в сосдания разного дизайна и тому подобнее, писать в ЛС О сотрудничестве @Skitels_s1mpel</p>
 </div>
 <div class="post">
 <h1>Пост #2</h1>
-<p>не могу решить проблему с SDK NDK и JDK тобы выпустить билд на андроид</p>
+<p>привет, у нас идет набор в тестера, нужен 1 человек, переходи в группу и оставляй заявку, https://t.me/+cilaUm04WowxODVi </p>
 </div>
 <div class="post">
 <h1>Пост #3</h1>
-<p>привет, у нас идет набор в тестера, нужен 1 человек, переходи в группу и оставляй заявку, https://t.me/+cilaUm04WowxODVi </p>
+<img src="https://t.me/StandBaseCannel/212"/>
+<p> Ладно, я бот) </p>
 </div>
 </div>
 <div class="comments"  id="comments">
@@ -288,11 +290,7 @@ stage.start();
 <div class="comment-base">
 <h1 class="comment-title">Инфо #3</h1>
 <p>Текущая версия игры 1.4. </p>
-
 </div>
-<div class="comment-base">
-<h1 class="comment-title">Инфо #4</h1>
-<p>#Реклама </p>
 </div>
 </div>
 <script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>

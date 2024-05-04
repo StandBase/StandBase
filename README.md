@@ -8,7 +8,7 @@ color: #fff;
 text-decoration: none;
 }
 html{
-background: #000;
+background: #606;
 min-height: 100%;
 font-family: Helvetica;
 display: flex;

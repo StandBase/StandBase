@@ -295,6 +295,7 @@ stage.start();
 <h1 class="comment-title">Инфо #4</h1>
 <p>#Реклама </p>
 </div>
+</div>
 <script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>
 <script type="text/javascript" src="https://www.bestchange.com/images/banners/468x60-11.js"></script>
 <a target="_blank" href="https://www.bestchange.com/?p=1306772" title="E-money exchange rates listing &ndash; BestChange"><span id="Kb6fibF3Tdfe5YnZKFki" style="display: inline-block; width: 468px; height: 60px; background-color: #89b508; margin: 0; padding: 0; border: none; overflow: hidden" onclick="return false"></span></a>

@@ -192,7 +192,7 @@ margin: 0;
 </head>
 <body>
 <header class="header">
-<a class="none">
+<a class="logo">
 StandBase
 </a>
 <nav class="nav">

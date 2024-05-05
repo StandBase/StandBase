@@ -8,7 +8,7 @@ color: #fff;
 text-decoration: none;
 }
 html{
-background: #606;
+background: #f;
 min-height: 100%;
 font-family: Helvetica;
 display: flex;
@@ -209,7 +209,7 @@ StandBase
 <p>Сайт по приватке StandBase...</p>
 </div>
 <div class="box-side">
-<div class="logo">
+<div class="none">
 
 </div>
 </div>

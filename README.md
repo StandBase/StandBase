@@ -290,9 +290,6 @@ stage.start();
 <p>Текущая версия игры 1.4. </p>
 
 </div>
-<div class="comment-base">
-<h1 class="comment-title">Инфо #4</h1>
-<p>#Реклама </p>
 </div>
 </div>
 <script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>

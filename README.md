@@ -244,11 +244,11 @@ stage.start();
 <div class="posts"  id="posts">
 <div class="post">
 <h1>Пост #1</h1>
-<p><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@hacker_tv2" data-unique-id="hacker_tv2" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@hacker_tv2?refer=creator_embed">@hacker_tv2</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script></p>
+<p><blockquote class=</p>
 </div>
 <div class="post">
 <h1>Пост #2</h1>
-<p>не могу решить проблему с SDK NDK и JDK тобы выпустить билд на андроид</p>
+<p></p>
 </div>
 <div class="post">
 <h1>Пост #3</h1>
